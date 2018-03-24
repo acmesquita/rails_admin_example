@@ -1,24 +1,7 @@
-# README
+#Project Rails Admin Example
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Rails Admin -> https://github.com/sferik/rails_admin
+* Rails Admin Theme -> https://github.com/rollincode/rails_admin_theme
+* Devise -> https://github.com/plataformatec/devise
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![alt text](https://github.com/acmesquita/rails_admin_example/blob/master/app/assets/images/initial_screen.png)
